@@ -22,7 +22,6 @@ C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SI
 C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\bin\Debug\SICXEANALIZADOR.pdb
 C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\bin\Debug\Antlr4.Runtime.dll
 C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\bin\Debug\Antlr4.Runtime.xml
-C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\obj\Debug\SICXEANALIZADOR.csproj.AssemblyReference.cache
 C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\obj\Debug\SICXEANALIZADOR.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
 C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\obj\Debug\SICXEANALIZADOR.Form1.resources
 C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\obj\Debug\SICXEANALIZADOR.Properties.Resources.resources

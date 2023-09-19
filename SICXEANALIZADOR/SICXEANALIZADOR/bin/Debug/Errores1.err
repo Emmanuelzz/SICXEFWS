@@ -1,2 +1,2 @@
 Errores de sintaxis:
-Línea 28:4 no viable alternative at input 'JSFIN'
+Línea 4:11 mismatched input '\r\n' expecting {'#', '@', ID, NUM}

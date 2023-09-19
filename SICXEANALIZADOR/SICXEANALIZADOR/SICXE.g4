@@ -43,15 +43,17 @@ formato1
     ;
 
 formato2
-    :   CODOPF2 (registro (',' registro)?)?
-	|   INSTRN (registro (',' NUM)?)?
-	|   INSTRUNIC ( NUM)?
+    :   CODOPF2 (registro (',' registro)?)
+    |   INSTRN (registro (',' NUM)?)?
+    |   INSTRUNIC (NUM)?
     ;
 
+
 formato3
-    :   ('+'? CODOPF34) (ID | '#' NUM | '@' ID | '#' ID | '@' NUM | NUM ',' 'X' | ID ',' 'X')?
+    :   ('+'? CODOPF34) (ID | '#' NUM | '@' ID | '#' ID | '@' NUM | NUM ',' 'X' | ID ',' 'X')
     |   'RSUB'
     ;
+
 
 
 directiva
