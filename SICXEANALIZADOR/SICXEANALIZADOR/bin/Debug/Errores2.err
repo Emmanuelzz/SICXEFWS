@@ -1,3 +1,0 @@
-Errores de sintaxis:
-Línea 4:11 mismatched input '\r\n' expecting {'#', '@', ID, NUM}
-Línea 8:10 missing {'X', 'A', 'L', 'B', 'S', 'T', 'F', REG} at '\r\n'
