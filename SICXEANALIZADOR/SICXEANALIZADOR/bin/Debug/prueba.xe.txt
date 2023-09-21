@@ -1,0 +1,17 @@
+EJER1 START 0
+      LDX   #5
+      HIO
+      +LDB 
+      STA @COUNT
+      CLEAR A
+      BASE   TABLE2
+      ADDR
+LOOP  ADD   TABLE,X
+      +STA  TOTAL
+      RSUB
+COUNT RESB 12H
+      SHIFTL X,2
+TABLE RESW 10
+TABLE2 BYTE C'TEST'
+       WORD 16
+       END
