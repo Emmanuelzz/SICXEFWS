@@ -1,6 +1,0 @@
-C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSLexer.cs
-C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSParser.cs
-C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSListener.cs
-C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSBaseListener.cs
-C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSVisitor.cs
-C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSBaseVisitor.cs
