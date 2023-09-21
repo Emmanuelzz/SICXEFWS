@@ -8,15 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-<<<<<<< HEAD
-<<<<<<< HEAD:SICXE/obj/Debug/analizadorLSBaseVisitor.cs
-// Generated from C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\analizadorLS.g4 by ANTLR 4.6.6
-=======
 // Generated from C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\SICXE.g4 by ANTLR 4.6.6
->>>>>>> parent of 128057a (sicxe):SICXEANALIZADOR/SICXEANALIZADOR/obj/Debug/SICXEBaseVisitor.cs
-=======
-// Generated from C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXEANALIZADOR\SICXEANALIZADOR\SICXE.g4 by ANTLR 4.6.6
->>>>>>> parent of 128057a (sicxe)
 
 // Unreachable code detected
 #pragma warning disable 0162
