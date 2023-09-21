@@ -29,3 +29,17 @@ C:\Users\Joan Hernández\Documents\Software de Sistemas\LAB\Practica 03\SICXE\ob
 C:\Users\Joan Hernández\Documents\Software de Sistemas\LAB\Practica 03\SICXE\obj\Debug\SICXE.exe
 C:\Users\Joan Hernández\Documents\Software de Sistemas\LAB\Practica 03\SICXE\obj\Debug\SICXE.pdb
 C:\Users\Joan Hernández\Documents\Software de Sistemas\LAB\Practica 03\SICXE\obj\Debug\SICXE.csprojAssemblyReference.cache
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.csprojAssemblyReference.cache
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSLexer.cs
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSParser.cs
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSListener.cs
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSBaseListener.cs
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSVisitor.cs
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\analizadorLSBaseVisitor.cs
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.Form1.resources
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.Properties.Resources.resources
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.csproj.GenerateResource.cache
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.csproj.CoreCompileInputs.cache
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.exe
+C:\Users\emman\OneDrive\Documentos\Semestre 8\LABFWS\SICXEFWS\SICXE\obj\Debug\SICXE.pdb
